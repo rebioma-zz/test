@@ -1,10 +1,10 @@
 test
 ====
 this
-helpers do  
-    include Rack::Utils  
-    alias_method :h, :escape_html  
-end 
+#helpers do  
+#    include Rack::Utils  
+#    alias_method :html, :escape_html  
+#end 
 
 then this:
 additional 
